@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://github.com/hisa-takeuchi/hisa-takeuchi/">
-    <img src="https://komarev.com/ghpvc/?username="hisa-takeuchi" alt="hisa-takeuchi" />
+    <img src="https://komarev.com/ghpvc/?username=hisa-takeuchi" alt="hisa-takeuchi" />
   </a>
 <!--   <a href="http://twitter.com/hisa-takeuchi">
     <img height="20" src="https://img.shields.io/twitter/follow/hisa-takeuchi?label=Twitter&logo=twitter&style=flat" />
